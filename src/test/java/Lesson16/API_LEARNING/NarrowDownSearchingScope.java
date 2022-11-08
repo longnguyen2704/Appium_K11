@@ -1,4 +1,4 @@
-package Lesson16;
+package Lesson16.API_LEARNING;
 
 import Lesson16.driver.DriverFactory;
 import Lesson16.driver.Platform;
@@ -15,7 +15,7 @@ import java.util.List;
 
 public class NarrowDownSearchingScope {
     public static void main(String[] args) {
-        AppiumDriver<MobileElement> appiumDriver = Lesson.DriverFactory.getDriver(Platform.ANDROID);
+        AppiumDriver<MobileElement> appiumDriver = DriverFactory.getDriver(Platform.ANDROID);
         try {
             Dimension windowSize = appiumDriver.manage().window().getSize();
             int screenHeight = windowSize.getHeight();

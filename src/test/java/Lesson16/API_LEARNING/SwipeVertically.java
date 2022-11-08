@@ -1,4 +1,4 @@
-package Lesson16;
+package Lesson16.API_LEARNING;
 
 import Lesson16.driver.DriverFactory;
 import Lesson16.driver.Platform;

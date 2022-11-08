@@ -1,4 +1,4 @@
-package Lesson16.driver;
+package Lesson17.driver;
 
 import io.appium.java_client.remote.MobileCapabilityType;
 

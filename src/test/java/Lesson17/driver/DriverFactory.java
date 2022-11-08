@@ -1,6 +1,5 @@
-package Lesson16.driver;
+package Lesson17.driver;
 
-import Lesson15.driver.MobileCapabilityTypeEx;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
